@@ -1,7 +1,7 @@
 # Ottawa Business Waste Reduction
 A structured approach to reduce waste and increase composting and recycling.
 
-## Blue Box (Metal/Plastic/Glass)
+## [Blue Box](https://ottawa.ca/en/residents/garbage-and-recycling/recycling) (Metal/Plastic/Glass)
 
 ### Recyclable
 
@@ -166,7 +166,20 @@ Place these items in your regular garbage.
 
 ## Garbage
 
-
+### Don't throw [Hazardous Waste](https://ottawa.ca/en/residents/garbage-and-recycling/hazardous-waste-and-special-items) in the Garbage
+- Computers
+- Aerosol containers
+- Propane cylinders
+- Disinfectants
+- Fluorescent bulbs/tubes
+- Fire extinguishers
+- Fertilizers and pesticides
+- Mercury switches/thermometers
+- Needles and syringes
+- Pharmaceuticals
+- Paints and coatings
+- Oven and window cleaners
+- Pool chemicals
 
 
 ## Links
