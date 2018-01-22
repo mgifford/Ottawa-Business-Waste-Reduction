@@ -166,8 +166,11 @@ Place these items in your regular garbage.
 
 ## Garbage
 
+- Smoke alarms
+- Pet Waste
+
+
 ### Don't throw [Hazardous Waste](https://ottawa.ca/en/residents/garbage-and-recycling/hazardous-waste-and-special-items) in the Garbage
-- Computers
 - Aerosol containers
 - Propane cylinders
 - Disinfectants
@@ -180,6 +183,32 @@ Place these items in your regular garbage.
 - Paints and coatings
 - Oven and window cleaners
 - Pool chemicals
+- Batteries
+- Flares & Fireworks
+- Energy efficient light bulbs
+- Fluorescent light bulbs
+- Large, bulky items
+- Medication
+- Motor oil
+- Paint
+
+### E-waste Drop-offs & Selected Stores
+- Televisions
+- Desktop computers and terminals
+- Monitors
+- Laptop computers
+- Desktop printers
+- Fax machines
+- Disk drives
+- CD-ROM drives
+- Keyboards and mice
+- Amplifiers, stereos, speakers, receivers
+- Cameras, digital cameras
+- Copiers, fax machines, scanners
+- Pagers, PDAs
+- Radios
+- Telephones, cellphones, answering machines
+- VCR and DVD players
 
 
 ## Links
