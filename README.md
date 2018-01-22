@@ -50,10 +50,10 @@ Place these items in your regular garbage.
 - Chip bags
 
 #### Plastic
--     #6 expanded polystyrene (such as styrofoam containers and packaging, coffee cup lids, meat trays and foam clam shells)
--     All plastic bags
--     Hard plastics such as dishes, cups, toys, make-up jars, laundry baskets
--     Motor oil containers
+- #6 expanded polystyrene (such as styrofoam containers and packaging, coffee cup lids, meat trays and foam clam shells)
+- All plastic bags
+- Hard plastics such as dishes, cups, toys, make-up jars, laundry baskets
+- Motor oil containers
 
 ### Curbside Notes
 - All recyclables must be placed loose in an approved City of Ottawa blue bin to help with sorting at the recycling facility.
