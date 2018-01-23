@@ -1,9 +1,9 @@
 # Sign Level Information
 
 ## Blue
-- Plastic bottles
-- Jars and foot tubs
-- Metal/aluminum food and beveradge cans and trays
+- Plastic bottles & beveradge cans
+- Jars
+- Metal/aluminum food cans & trays
 - Drink and Soup Boxes
 
 ## Black
@@ -15,12 +15,15 @@
 
 ## Green
 - Food scraps
-- Tissues, napkins and paper towels
+- Tissues, napkins & paper towels
+- Floor sweepings
 - food soiled paper packaging
 
 ## Hazerdous Waste
 - Batteries
 - CFL Bulbs
+- Aerosol containers & Propane cylinders
+- Disinfectants
 
 ## [Take it Back Partner](http://app06.ottawa.ca/online_services/recycling/items/111_en.html)
 - Cell Phones
