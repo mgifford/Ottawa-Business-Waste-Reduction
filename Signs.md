@@ -1,7 +1,7 @@
 # Sign Level Information
 
 ## Blue
-- Plastic bottles & beveradge cans
+- Plastic bottles & beverage cans
 - Jars
 - Metal/aluminum food cans & trays
 - Drink and Soup Boxes
@@ -9,7 +9,7 @@
 ## Black
 
 - Magazines
-- Cardbord
+- Cardboard
 - Pizza Boxes
 - Flyers
 
