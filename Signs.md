@@ -19,7 +19,7 @@
 - Floor sweepings
 - food soiled paper packaging
 
-## Hazerdous Waste
+## Hazardous Waste
 - Batteries
 - CFL Bulbs
 - Aerosol containers & Propane cylinders
